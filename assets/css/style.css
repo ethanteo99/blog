@@ -1,0 +1,15 @@
+.vertical-menu {
+	text-align:left;
+	width:50%;
+	margin:3px;
+}
+
+.vertical-menu a {
+  display: block; /* Make the links appear below each other */
+  padding: 12px; /* Add some padding */
+  text-decoration: none; /* Remove underline from links */
+}
+
+.vertical-menu a:hover {
+  background-color: #ccc; /* Dark grey background on mouse-over */
+}
