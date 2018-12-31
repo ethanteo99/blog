@@ -1,6 +1,19 @@
+h1, h2, h3 {
+	font-family:'Montserrat', sans-serif;
+}
+
+h1 {
+	font-weight:bold;
+	font-size:2.5vw;
+}
+
+p, a {
+	font-family: 'Lato', sans-serif;
+}
+
 .vertical-menu {
 	text-align:left;
-	width:50%;
+	width:100%;
 	margin:3px;
 }
 
@@ -8,8 +21,4 @@
   display: block; /* Make the links appear below each other */
   padding: 12px; /* Add some padding */
   text-decoration: none; /* Remove underline from links */
-}
-
-.vertical-menu a:hover {
-  background-color: #ccc; /* Dark grey background on mouse-over */
 }

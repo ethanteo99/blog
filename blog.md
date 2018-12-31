@@ -1,12 +1,13 @@
 ---
 layout: default
+title: — Blog
 ---
 <h1>Blog</h1>
-<p>Below are a list of all the blog posts I've ever written. Enjoy!</p>
 <br/>
 <ul>
   {% for post in site.posts %}
       <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-      <p>{{ post.excerpt }}</p>
+      <p>{{ post.date || date_to_string }}</p>
+      <p>{{ post.excerpt | strip_html | strip_newlines | truncate: 156}}</p>
   {% endfor %}
 </ul>
