@@ -4,7 +4,11 @@ h1, h2, h3 {
 
 h1 {
 	font-weight:bold;
-	font-size:2.5vw;
+	font-size:3.0vw;
+}
+
+h4 {
+	font-size: 2.0vw;
 }
 
 h4, ol, ul, li, p, a {
@@ -25,4 +29,18 @@ a {
   display: block; /* Make the links appear below each other */
   padding: 12px; /* Add some padding */
   text-decoration: none; /* Remove underline from links */
+}
+
+p {
+	font-size: 1.1rem;
+}
+
+@media (max-width: 980px) {
+    h1, h4 {
+    	font-size: 1.8em;
+    }
+
+    p {
+        font-size: 1.2em;
+    }
 }
