@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Home
 ---
 Hi! My name is Ethan. I'm a sophomore at UC Berkeley studying Computer and Cognitive Science. Growing up, I'm fortunate to have moved around a lot, having lived in London, Washington D.C., Beijing, Shanghai, Palo Alto, and now Berkeley. I enjoy good music and competitive activities.
 

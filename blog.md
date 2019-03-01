@@ -1,6 +1,6 @@
 ---
 layout: default
-title: — Blog
+title: Blog
 ---
 <h1>Blog</h1>
 <br/>
