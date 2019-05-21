@@ -5,7 +5,7 @@ title: Grace, Pride, Servanthood
 
 I got to briefly write about my Christian faith in the past two posts, and you may be wondering, what’s this all about? Turns out, my relationship with Christianity has been an enormous part of my life since coming to college. I was baptized last month on April 28, and it’s a day I’ll (hopefully) never forget! In light of this significant event, I thought it’d be fitting to share a little about why Christianity means so much to me.
 
-<img src="/assets/img/gps/1.JPG" height="480" style="margin-right:auto; display: block"/>
+<img src="/assets/img/gps/1.JPG" height="300" style="margin-right:auto; display: block"/>
 
 #### Understanding Grace
 *“Where shall I go from your Spirit? Or where shall I flee from your presence?” Psalm 139:7*
